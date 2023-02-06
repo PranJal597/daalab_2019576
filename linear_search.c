@@ -20,7 +20,7 @@ int main()
             c++;
             break;
         }
-    }
+    }dw
     if(c==0)
     {
         printf("Number not found");
